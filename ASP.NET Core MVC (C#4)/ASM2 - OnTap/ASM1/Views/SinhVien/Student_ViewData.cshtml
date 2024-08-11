@@ -1,0 +1,11 @@
+﻿@model ASM1.Models.SinhVien
+
+<h1>Thông tin sinh viên đã xóa</h1>
+<p>ID: @Model.ID</p>
+<p>Tên: @Model.Name</p>
+<p>Tuổi: @Model.Age</p>
+<p>Chuyên ngành: @Model.Major</p>
+
+<form asp-action="RollBackData" asp-controller="Sinhvien" method="post">
+    <button type="submit">Khôi phục</button>
+</form>

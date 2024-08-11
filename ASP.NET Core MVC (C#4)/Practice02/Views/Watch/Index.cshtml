@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Watches";
+}
+@model IEnumerable<Practice02.Models.Watch>;
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-body">
+            <a asp-action="Create" asp-controller="Watch" class="btn btn-primary">Create</a>
+            <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.ID)</th>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.Name)</th>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.Origin)</th>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.Price)</th>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.year)</th>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.Img)</th>
+                        <th class="text-center">Actions</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var i in Model)
+                    {
+                        <tr>
+                            <td>@i.ID</td>
+                            <td>@i.Name</td>
+                            <td>@i.Origin</td>
+                            <td>@i.Price</td>
+                            <td>@i.year</td>
+                            <td>
+                                <img src="@i.Img" width="100px" />
+                            </td>
+                            <td>
+                                <div class="d-flex mx-4">
+                                    <a class="btn btn-warning" asp-action="Update" asp-controller="Watch"  asp-route-id="@i.ID">Update</a>
+                                    <form asp-controller="Watch" asp-action="Delete" asp-route-id="@i.ID" onsubmit="return confirmDelete()" method="post">
+                                        <button type="submit" class=" btn btn-danger">Delete</button>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section DefaultScripts{
+    <script>
+        function confirmDelete() {
+            if (confirm('Bạn có chắc chắn muốn xóa không?')) {
+                return true; // Cho phép form tiếp tục submit
+            } else {
+                return false; // Ngăn form submit nếu người dùng không đồng ý
+            }
+        }
+    </script>
+}

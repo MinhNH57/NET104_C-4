@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+
+@model Watch
+
+<div class="container-fluid">
+    <div class="card">
+
+        <div class="card-body">
+
+            <form method="post" asp-action="Update" asp-controller="Watch" class="container">
+                <div>
+                    <div class="row pb-2 text-center">
+                        <h2 class="text-primary">Update</h2>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6 col-sm-12 col-md-6">
+                        <label asp-for="ID">ID</label>
+                        <input asp-for="ID" class="form-control" />
+                    </div>
+
+                    <div class="col-6 col-sm-12 col-md-6">
+                        <label asp-for="Name">Name</label>
+                        <input asp-for="Name" class="form-control" />
+                    </div>
+                </div>
+
+                <div>
+                    <label asp-for="Origin"></label>
+                    <input asp-for="Origin" class="form-control" />
+                </div>
+
+                <div>
+                    <label asp-for="Price">Price</label>
+                    <input asp-for="Price" class="form-control" />
+                </div>
+
+                <div>
+                    <label asp-for="year">Price</label>
+                    <input asp-for="year" class="form-control" />
+                </div>
+
+                <button type="submit" class="btn btn-primary mt-2">submit</button>
+            </form>
+
+        </div>
+
+    </div>
+</div>

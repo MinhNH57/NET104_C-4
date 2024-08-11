@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Poducts";
+}
+@model IEnumerable<Practice_01.Models.Product>;
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-body">
+            <a asp-action="Create" asp-controller="Product" class="btn btn-primary">Create</a>
+            <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.ID)</th>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.Name)</th>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.SoLuong)</th>
+                        <th class="text-center">@Html.DisplayNameFor(Model => Model.ImgUrl)</th>
+                        <th class="text-center">Actions</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                        @foreach(var i in Model)
+                        {
+                         <tr>
+                            <td>@i.ID</td>
+                            <td>@i.Name</td>
+                            <td>@i.SoLuong</td>
+                            <td>
+                                <img src="@i.ImgUrl" style="width:100px; height:auto" />
+                            </td>
+                            <td>
+                                <div class="d-flex mx-4">
+                                    <a class="btn btn-warning" asp-action="Edit" asp-controller="Product" asp-route-id="@i.ID" >Update</a>
+                                    <form asp-controller="Product" asp-action="Delete" asp-route-id="@i.ID" method="post">
+                                        <button type="submit" class=" btn btn-danger">Delete</button>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr>
+                        }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

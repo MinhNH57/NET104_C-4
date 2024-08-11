@@ -1,0 +1,136 @@
+.banner-overlay {
+    position: relative;
+    max-width: 100%;
+}
+
+.banner-overlay img {
+    width: 100%;
+    filter: blur(1px);
+}
+.overlay-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.overlay-content h1 {
+    font-size: 6vw;
+    margin-bottom: 0.5rem;
+}
+.overlay-content p {
+    font-size: 3vw;
+}
+
+.container1 {
+    background-image: url('./FontNew/banner1-jt1qMNrxqQ-fotor-20240615234736.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card1:hover{
+    background-color: rgb(229, 226, 222);
+}
+
+.lopDem {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    z-index: 1;
+  }
+
+
+
+  
+
+
+.scene {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+    perspective: 1200px;
+}
+
+.cube {
+    /* width: 400px;
+    height: 400px; */
+    /* position: relative; */
+    transform: translateZ(-300px) rotateX(-10deg) translateY(50px);
+    transform-style: preserve-3d;
+    transition: transform 1s;
+    animation: rotate 10s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: translateZ(-300px) rotateX(-10deg) translateY(50px) rotateY(0deg);
+    }
+    100% {
+        transform: translateZ(-300px) rotateX(-10deg) translateY(50px) rotateY(360deg) ;
+    }
+}
+
+.cube-face {
+    position: absolute;
+    width: 400px;
+    height: 400px; 
+    transform-style: preserve-3d;
+    transition: all .5s;
+}
+
+.font {
+    background: url("https://cdn.pnj.io/images/detailed/47/pndrca84464.5-pndrca84465.5-nhan-cuoi-bach-kim-pnj-dinh-kim-cuong.png") center no-repeat;
+    background-size: cover;
+    transform: rotateY(0deg) translateZ(200px);
+}
+
+.back {
+    background: url("https://free.vector6.com/wp-content/uploads/2021/05/PNG-0000002014-png-hanh-tinh-vu-tru.png") center no-repeat;
+    background-size: cover;
+    transform: rotateY(180deg) translateZ(200px);
+}
+
+.left {
+    background: url("https://trangdoan.vn/wp-content/uploads/2020/02/PNDD00C000026-PNDD00C000027-3.png") center no-repeat;
+    background-size: cover;
+    transform: rotateY(-90deg) translateZ(200px);
+}
+
+.right {
+    background: url("https://png.pngtree.com/png-clipart/20231005/original/pngtree-two-wedding-rings-png-image_13123188.png") center no-repeat;
+    background-size: cover;
+    transform: rotateY(90deg) translateZ(200px);
+}
+
+.bottom {
+    background: url("https://cdn.photoroom.com/v1/assets-cached.jpg?path=backgrounds_v3/white/Photoroom_white_background_extremely_fine_texture_only_white_co_d4046f3b-0a21-404a-891e-3f8d37c5aa94.jpg") center no-repeat;
+    background-size: cover;
+    transform: rotateX(90deg) translateZ(200px);
+}
+
+.top {
+    background: url("https://cdn.photoroom.com/v1/assets-cached.jpg?path=backgrounds_v3/white/Photoroom_white_background_extremely_fine_texture_only_white_co_d4046f3b-0a21-404a-891e-3f8d37c5aa94.jpg") center no-repeat;
+    background-size: cover;
+    transform: rotateX(-90deg) translateZ(200px);
+}
+
+.chua{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    top: 50%;
+    left: 35%;
+}
+
