@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|c:\\users\\dell\\desktop\\nguyenhongminh_baovemon\\nguyenhongminh_baovemon\\views\\canho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|solutionrelative:nguyenhongminh_baovemon\\views\\canho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|c:\\users\\dell\\desktop\\nguyenhongminh_baovemon\\nguyenhongminh_baovemon\\views\\canho\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|solutionrelative:nguyenhongminh_baovemon\\views\\canho\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|c:\\users\\dell\\desktop\\nguyenhongminh_baovemon\\nguyenhongminh_baovemon\\controllers\\canhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|solutionrelative:nguyenhongminh_baovemon\\controllers\\canhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|c:\\users\\dell\\desktop\\nguyenhongminh_baovemon\\nguyenhongminh_baovemon\\views\\canho\\reviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|solutionrelative:nguyenhongminh_baovemon\\views\\canho\\reviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|c:\\users\\dell\\desktop\\nguyenhongminh_baovemon\\nguyenhongminh_baovemon\\views\\canho\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|solutionrelative:nguyenhongminh_baovemon\\views\\canho\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|c:\\users\\dell\\desktop\\nguyenhongminh_baovemon\\nguyenhongminh_baovemon\\views\\canho\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC16209-0928-4599-8937-2316BCFD7015}|NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj|solutionrelative:nguyenhongminh_baovemon\\views\\canho\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Details.cshtml",
+              "RelativeDocumentMoniker": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Details.cshtml",
+              "RelativeToolTip": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:36:59.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\ReviewData.cshtml",
+              "RelativeDocumentMoniker": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\ReviewData.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\ReviewData.cshtml",
+              "RelativeToolTip": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\ReviewData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:34:11.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Edit.cshtml",
+              "RelativeToolTip": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:28:58.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Create.cshtml",
+              "RelativeDocumentMoniker": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Create.cshtml",
+              "RelativeToolTip": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:26:52.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Index.cshtml",
+              "RelativeToolTip": "NguyenHongMinh_BaoVeMon\\Views\\CanHo\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:25:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanHoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Controllers\\CanHoController.cs",
+              "RelativeDocumentMoniker": "NguyenHongMinh_BaoVeMon\\Controllers\\CanHoController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\Controllers\\CanHoController.cs",
+              "RelativeToolTip": "NguyenHongMinh_BaoVeMon\\Controllers\\CanHoController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAHMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:24:25.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

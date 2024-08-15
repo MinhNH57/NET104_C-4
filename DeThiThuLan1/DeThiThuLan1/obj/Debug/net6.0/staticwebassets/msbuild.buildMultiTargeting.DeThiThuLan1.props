@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DeThiThuLan1.props" />
+</Project>

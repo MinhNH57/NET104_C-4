@@ -1,0 +1,11 @@
+﻿@model LuyenTap2.Models.SinhVien;
+
+<h1>Thông tin đã sửa</h1>
+<p>ID: @Model.ID</p>
+<p>Tên: @Model.HoTen</p>
+<p>Tuổi: @Model.Tuoi</p>
+<p>Chuyên ngành: @Model.ChuyenNghanh</p>
+
+<form asp-action="RollbackDelete" asp-controller="SinhVien" asp-route-id = "@Model.ID">
+    <button type="submit">RollBack</button>
+</form>

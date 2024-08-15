@@ -1,0 +1,11 @@
+﻿@model NguyenHongMinh_BaoVeMon.Models.CanHo
+
+<h1>Thông tin đã sửa</h1>
+<p>ID: @Model.ID</p>
+<p>Tên: @Model.Name</p>
+<p>Tuổi: @Model.DienTich</p>
+<p>Chuyên ngành: @Model.So</p>
+
+<form asp-action="RollbackDelete" asp-controller="CanHo" asp-route-id="@Model.ID">
+    <button type="submit">RollBack</button>
+</form>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LuyenTap2.props" />
+</Project>

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|c:\\users\\dell\\desktop\\dethithulan1\\dethithulan1\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|solutionrelative:dethithulan1\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|c:\\users\\dell\\desktop\\dethithulan1\\dethithulan1\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|solutionrelative:dethithulan1\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|c:\\users\\dell\\desktop\\dethithulan1\\dethithulan1\\views\\khachhang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|solutionrelative:dethithulan1\\views\\khachhang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|c:\\users\\dell\\desktop\\dethithulan1\\dethithulan1\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|solutionrelative:dethithulan1\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|c:\\users\\dell\\desktop\\dethithulan1\\dethithulan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|solutionrelative:dethithulan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|c:\\users\\dell\\desktop\\dethithulan1\\dethithulan1\\views\\khachhang\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{474A5ED1-AB02-477C-B90A-1F03C0AE08AD}|DeThiThuLan1\\DeThiThuLan1.csproj|solutionrelative:dethithulan1\\views\\khachhang\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Views\\KhachHang\\Details.cshtml",
+              "RelativeDocumentMoniker": "DeThiThuLan1\\Views\\KhachHang\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Views\\KhachHang\\Details.cshtml",
+              "RelativeToolTip": "DeThiThuLan1\\Views\\KhachHang\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T09:31:52.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Program.cs",
+              "RelativeDocumentMoniker": "DeThiThuLan1\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Program.cs",
+              "RelativeToolTip": "DeThiThuLan1\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:01:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Views\\KhachHang\\Update.cshtml",
+              "RelativeDocumentMoniker": "DeThiThuLan1\\Views\\KhachHang\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Views\\KhachHang\\Update.cshtml",
+              "RelativeToolTip": "DeThiThuLan1\\Views\\KhachHang\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:56:43.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Views\\KhachHang\\Create.cshtml",
+              "RelativeDocumentMoniker": "DeThiThuLan1\\Views\\KhachHang\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Views\\KhachHang\\Create.cshtml",
+              "RelativeToolTip": "DeThiThuLan1\\Views\\KhachHang\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:51:29.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Views\\KhachHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "DeThiThuLan1\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Views\\KhachHang\\Index.cshtml",
+              "RelativeToolTip": "DeThiThuLan1\\Views\\KhachHang\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:48:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "DeThiThuLan1\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "DeThiThuLan1\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:46:58.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
