@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoGH_OnTap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f51d1d07bd5dcf4dc9ae96cc873504c0560e35ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoGH_OnTap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoGH_OnTap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
