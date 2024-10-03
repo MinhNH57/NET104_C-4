@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\DeThiThuLan1.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\NET104_C-4\\DeThiThuLan1\\DeThiThuLan1\\DeThiThuLan1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\DeThiThuLan1.csproj": {
+    "C:\\Users\\Dell\\Desktop\\NET104_C-4\\DeThiThuLan1\\DeThiThuLan1\\DeThiThuLan1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\DeThiThuLan1.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\DeThiThuLan1\\DeThiThuLan1\\DeThiThuLan1.csproj",
         "projectName": "DeThiThuLan1",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\DeThiThuLan1.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\DeThiThuLan1\\DeThiThuLan1\\DeThiThuLan1.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\DeThiThuLan1\\DeThiThuLan1\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\DeThiThuLan1\\DeThiThuLan1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

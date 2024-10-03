@@ -10247,11 +10247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\ASP.NET Core MVC (C#4)\\DemoGH\\DemoGH.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\DemoGH.csproj",
       "projectName": "DemoGH",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\ASP.NET Core MVC (C#4)\\DemoGH\\DemoGH.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\DemoGH.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\ASP.NET Core MVC (C#4)\\DemoGH\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -10267,14 +10267,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Dell\\Desktop\\ASP.NET Core MVC (C#4)\\Data_Minh\\Data_Minh.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\ASP.NET Core MVC (C#4)\\Data_Minh\\Data_Minh.csproj"
+            "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Data_Minh\\Data_Minh.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Data_Minh\\Data_Minh.csproj"
             }
           }
         }
@@ -10283,6 +10284,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -10323,7 +10329,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

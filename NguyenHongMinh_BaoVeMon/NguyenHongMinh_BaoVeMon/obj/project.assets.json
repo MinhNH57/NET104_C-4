@@ -10265,11 +10265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj",
       "projectName": "NguyenHongMinh_BaoVeMon",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

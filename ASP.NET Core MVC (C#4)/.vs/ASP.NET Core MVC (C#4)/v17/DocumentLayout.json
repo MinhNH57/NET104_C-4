@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1C48F7-D32F-4504-98E6-98F1D244D218}|Practice02\\Practice02.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\practice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1C48F7-D32F-4504-98E6-98F1D244D218}|Practice02\\Practice02.csproj|solutionrelative:practice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FABD4-BDAF-4368-BED2-304D379A82B2}|Practice03\\Practice03.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\practice03\\views\\ring\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{627FABD4-BDAF-4368-BED2-304D379A82B2}|Practice03\\Practice03.csproj|solutionrelative:practice03\\views\\ring\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FABD4-BDAF-4368-BED2-304D379A82B2}|Practice03\\Practice03.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\practice03\\controllers\\ringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FABD4-BDAF-4368-BED2-304D379A82B2}|Practice03\\Practice03.csproj|solutionrelative:practice03\\controllers\\ringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1A4087-B3F5-4881-AA21-00C5B2F8B2D7}|DemoGH\\DemoGH.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\demogh\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1A4087-B3F5-4881-AA21-00C5B2F8B2D7}|DemoGH\\DemoGH.csproj|solutionrelative:demogh\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FABD4-BDAF-4368-BED2-304D379A82B2}|Practice03\\Practice03.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\practice03\\views\\ring\\createemty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{627FABD4-BDAF-4368-BED2-304D379A82B2}|Practice03\\Practice03.csproj|solutionrelative:practice03\\views\\ring\\createemty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1A4087-B3F5-4881-AA21-00C5B2F8B2D7}|DemoGH\\DemoGH.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\demogh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1A4087-B3F5-4881-AA21-00C5B2F8B2D7}|DemoGH\\DemoGH.csproj|solutionrelative:demogh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1A4087-B3F5-4881-AA21-00C5B2F8B2D7}|DemoGH\\DemoGH.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\demogh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1A4087-B3F5-4881-AA21-00C5B2F8B2D7}|DemoGH\\DemoGH.csproj|solutionrelative:demogh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCCBCA4-B711-4D98-8EF4-71BDC121E491}|Practice04\\Practice04.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\practice04\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCCBCA4-B711-4D98-8EF4-71BDC121E491}|Practice04\\Practice04.csproj|solutionrelative:practice04\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DB0D87-577C-4BDE-89DA-894029535DED}|Data_Minh\\Data_Minh.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\data_minh\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DB0D87-577C-4BDE-89DA-894029535DED}|Data_Minh\\Data_Minh.csproj|solutionrelative:data_minh\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9445B5-DDAF-4E53-BCDB-F90806D0FEB8}|Practice 01\\Practice 01.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\practice 01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9445B5-DDAF-4E53-BCDB-F90806D0FEB8}|Practice 01\\Practice 01.csproj|solutionrelative:practice 01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9445B5-DDAF-4E53-BCDB-F90806D0FEB8}|Practice 01\\Practice 01.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\practice 01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9445B5-DDAF-4E53-BCDB-F90806D0FEB8}|Practice 01\\Practice 01.csproj|solutionrelative:practice 01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DB0D87-577C-4BDE-89DA-894029535DED}|Data_Minh\\Data_Minh.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\data_minh\\migrations\\20240719155248_nh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DB0D87-577C-4BDE-89DA-894029535DED}|Data_Minh\\Data_Minh.csproj|solutionrelative:data_minh\\migrations\\20240719155248_nh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DB0D87-577C-4BDE-89DA-894029535DED}|Data_Minh\\Data_Minh.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\data_minh\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DB0D87-577C-4BDE-89DA-894029535DED}|Data_Minh\\Data_Minh.csproj|solutionrelative:data_minh\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9445B5-DDAF-4E53-BCDB-F90806D0FEB8}|Practice 01\\Practice 01.csproj|c:\\users\\dell\\desktop\\net104_c-4\\asp.net core mvc (c#4)\\practice 01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9445B5-DDAF-4E53-BCDB-F90806D0FEB8}|Practice 01\\Practice 01.csproj|solutionrelative:practice 01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice02\\Program.cs",
+              "RelativeDocumentMoniker": "Practice02\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice02\\Program.cs",
+              "RelativeToolTip": "Practice02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:12:51.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEmty.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice03\\Views\\Ring\\CreateEmty.cshtml",
+              "RelativeDocumentMoniker": "Practice03\\Views\\Ring\\CreateEmty.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice03\\Views\\Ring\\CreateEmty.cshtml",
+              "RelativeToolTip": "Practice03\\Views\\Ring\\CreateEmty.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:11:57.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\Program.cs",
+              "RelativeDocumentMoniker": "DemoGH\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\Program.cs",
+              "RelativeToolTip": "DemoGH\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice 01\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Practice 01\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice 01\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Practice 01\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:11:57.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "DemoGH\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "DemoGH\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoGH\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\DemoGH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoGH\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240719155248_nh.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Data_Minh\\Migrations\\20240719155248_nh.cs",
+              "RelativeDocumentMoniker": "Data_Minh\\Migrations\\20240719155248_nh.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Data_Minh\\Migrations\\20240719155248_nh.cs",
+              "RelativeToolTip": "Data_Minh\\Migrations\\20240719155248_nh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice03\\Views\\Ring\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practice03\\Views\\Ring\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice03\\Views\\Ring\\Index.cshtml",
+              "RelativeToolTip": "Practice03\\Views\\Ring\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:11:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RingController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice03\\Controllers\\RingController.cs",
+              "RelativeDocumentMoniker": "Practice03\\Controllers\\RingController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice03\\Controllers\\RingController.cs",
+              "RelativeToolTip": "Practice03\\Controllers\\RingController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice04\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Practice04\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice04\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Practice04\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Data_Minh\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "Data_Minh\\Models\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Data_Minh\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "Data_Minh\\Models\\NguoiDung.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice 01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practice 01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice 01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practice 01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:11:57.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Data_Minh\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Data_Minh\\Models\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Data_Minh\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Data_Minh\\Models\\HoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice 01\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Practice 01\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\ASP.NET Core MVC (C#4)\\Practice 01\\Models\\Product.cs",
+              "RelativeToolTip": "Practice 01\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:11:57.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

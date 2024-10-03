@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DeThiThuLan1
 build_property.RootNamespace = DeThiThuLan1
-build_property.ProjectDir = C:\Users\Dell\Desktop\DeThiThuLan1\DeThiThuLan1\
+build_property.ProjectDir = C:\Users\Dell\Desktop\NET104_C-4\DeThiThuLan1\DeThiThuLan1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Dell\Desktop\DeThiThuLan1\DeThiThuLan1
+build_property.MSBuildProjectDirectory = C:\Users\Dell\Desktop\NET104_C-4\DeThiThuLan1\DeThiThuLan1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/Home/Index.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/Home/Privacy.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/KhachHang/Create.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/KhachHang/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/KhachHang/Details.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/KhachHang/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/KhachHang/Index.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/KhachHang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/KhachHang/Update.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/KhachHang/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/Shared/Error.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/_ViewImports.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/_ViewStart.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/Desktop/DeThiThuLan1/DeThiThuLan1/Views/Shared/_Layout.cshtml]
+[C:/Users/Dell/Desktop/NET104_C-4/DeThiThuLan1/DeThiThuLan1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a219sclk89

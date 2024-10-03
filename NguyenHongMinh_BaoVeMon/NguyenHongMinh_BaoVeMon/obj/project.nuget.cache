@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMSLooDd46E=",
+  "dgSpecHash": "M9266SH/q8I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\NET104_C-4\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon\\NguyenHongMinh_BaoVeMon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
